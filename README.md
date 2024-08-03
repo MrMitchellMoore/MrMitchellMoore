@@ -16,6 +16,8 @@
   - [How to Create A Private Subnet](https://mmoorewebdev.com/how-to-create-our-first-private-subnet/)
   - [Securing Traffic Flow in a VPC](https://mmoorewebdev.com/aws-vpc-traffic-flow-security/)
   - [Cloud Security with AWS IAM Service](https://mmoorewebdev.com/cloud-security-with-aws-iam/)
+  - [Launching VPC Resources in AWS](https://mmoorewebdev.com/launching-vpc-resources-in-aws/)
+  - [Testing VPC Connectivity](https://mmoorewebdev.com/how-to-securely-test-your-vpc-connectivity/)
 
 <h2> 🤳 Connect with me:</h2>
 
