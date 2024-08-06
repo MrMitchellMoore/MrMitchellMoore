@@ -18,6 +18,7 @@
   - [Cloud Security with AWS IAM Service](https://mmoorewebdev.com/cloud-security-with-aws-iam/)
   - [Launching VPC Resources in AWS](https://mmoorewebdev.com/launching-vpc-resources-in-aws/)
   - [Testing VPC Connectivity](https://mmoorewebdev.com/how-to-securely-test-your-vpc-connectivity/)
+  - [VPC Peering](https://mmoorewebdev.com/the-basics-of-quick-and-secure-peering/)
 
 <h2> 🤳 Connect with me:</h2>
 
