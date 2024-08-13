@@ -19,6 +19,7 @@
   - [Launching VPC Resources in AWS](https://mmoorewebdev.com/launching-vpc-resources-in-aws/)
   - [Testing VPC Connectivity](https://mmoorewebdev.com/how-to-securely-test-your-vpc-connectivity/)
   - [VPC Peering](https://mmoorewebdev.com/the-basics-of-quick-and-secure-peering/)
+  - [VPC Monitoring Workflow](https://mmoorewebdev.com/how-to-effectively-build-a-vpc-monitoring-workflow/)
 
 <h2> 🤳 Connect with me:</h2>
 
