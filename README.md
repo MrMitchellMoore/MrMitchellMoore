@@ -20,6 +20,7 @@
   - [Testing VPC Connectivity](https://mmoorewebdev.com/how-to-securely-test-your-vpc-connectivity/)
   - [VPC Peering](https://mmoorewebdev.com/the-basics-of-quick-and-secure-peering/)
   - [VPC Monitoring Workflow](https://mmoorewebdev.com/how-to-effectively-build-a-vpc-monitoring-workflow/)
+  - [Accessing S3 From A VPC](https://mmoorewebdev.com/how-to-securely-access-s3-from-a-vpc/)
 
 <h2> 🤳 Connect with me:</h2>
 
