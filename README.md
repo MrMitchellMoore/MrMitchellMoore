@@ -1,4 +1,6 @@
-<h1>Hi, I'm Mitchell! <br/><a href="https://github.com/MrMitchellMoore">Web Content Specialist / Data Analyst</a>, <a href="https://www.linkedin.com/in/mitchellmoorejr/">Soon To Be Aws/Azure Cloud / Security / DevOps Engineer</a></h1>
+<h1>Hi there! I'm Mitchell!</h1> <br />
+<h3>I am a Web Content Specialist by day ☀️ / and Data Analyst by night 🌙.<br /> 
+<h3>I am tech savy so check out my linkedin to <a href="https://www.linkedin.com/in/mitchellmoorejr/">get to know me more</a>.</h3>
 
 <h2>👨‍💻 My Projects:</h2>
 
