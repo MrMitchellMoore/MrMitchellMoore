@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>🚧 Work in Progress</b>
+  - [Modern SQL Data Warehouse with SQL Server and Power BI](https://github.com/MrMitchellMoore/mitchell-sql-data-warehouse-project)
+
 - <b>Data Analytics</b>
   - [Stockton,CA Police Responses (python, excel, sql, amazon quicksight)](https://github.com/MrMitchellMoore/python-stockton-pd-responses)
   - [Disney+ (python, amazon quicksight)](https://github.com/MrMitchellMoore/disney-plus-analytics)
